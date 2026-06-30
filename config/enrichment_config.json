@@ -1,0 +1,14 @@
+{
+  "fields": [
+    {"key": "product_type",        "label": "Product Type",        "aliases": ["product type", "type"]},
+    {"key": "primary_category",    "label": "Primary Category",    "aliases": ["primary category", "category"]},
+    {"key": "primary_use_case",    "label": "Primary Use Case",    "aliases": ["primary use case", "use case"]},
+    {"key": "target_customer",     "label": "Target Customer",     "aliases": ["target customer", "customer", "audience"]},
+    {"key": "technology_domain",   "label": "Technology Domain",   "aliases": ["technology domain", "domain", "tech domain"]},
+    {"key": "short_description",   "label": "Short Description",   "aliases": ["short description", "description"]},
+    {"key": "deployment_type",     "label": "Deployment Type",     "aliases": ["deployment type", "deployment"]},
+    {"key": "supported_platforms", "label": "Supported Platforms", "aliases": ["supported platforms", "platforms"]},
+    {"key": "pricing_model",       "label": "Pricing Model",       "aliases": ["pricing model", "pricing"]},
+    {"key": "pricing_page_url",    "label": "Pricing Page URL",    "aliases": ["pricing page url", "pricing url"]}
+  ]
+}
